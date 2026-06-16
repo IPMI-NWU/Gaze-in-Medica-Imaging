@@ -1,3 +1,20 @@
+# Gaze in Medical Imaging: A Comprehensive Review
+
+> Computer-aided medical image analysis plays a critical role in clinical diagnosis. However, several challenges remain unresolved, including high annotation costs and limited model interpretability. Such limitations hinder clinical applicability and reduce clinician confidence. As a form of behavioral data that captures visual inspection trajectories, eye-tracking information can be seamlessly integrated into routine clinical workflows and has demonstrated considerable potential for addressing these challenges. Consequently, increasing attention has been directed toward gaze-based medical imaging research.
+A systematic review of gaze applications in medical imaging is presented. The fundamental concepts and processing pipeline of gaze data are first introduced. Existing studies are then comprehensively reviewed and categorized from two perspectives. From the application perspective, related research is grouped into three major directions: gaze prediction, gaze-assisted medical image analysis, and gaze-driven cross-modal learning and human--computer interaction. Within each application category, studies are further classified according to the functional role of gaze information, including data fusion, supervisory signals, and evaluation and interpretability analysis. In addition, publicly available eye-tracking datasets in medical imaging are systematically summarized. Current limitations and practical challenges are also analyzed, followed by a discussion of potential future research directions.
+The review provides a comprehensive overview of the emerging interdisciplinary area that integrates eye-tracking and medical imaging. A structured reference framework is established to support future investigations and facilitate continued advances in the field.
+
+![image](src/image1.png)
+Left: The number of medical imaging publications focusing on gaze has increased rapidly.
+Middle: The distribution of papers in the survey across imaging modalities; modalities with relatively few studies, such as PET, are grouped under “Others.”
+Right: The distribution of papers across different organs; less frequently studied organs, including the heart, vessels, and pancreas, are grouped under “Others.”
+
+![image](src/image2.png)
+A taxonomy of gaze-based studies in the field of medical imaging.
+
+![image](src/image3.png)
+A brief overview of gaze utilization pipelines across various applications.
+
 ## Part 1: Gaze Modeling and Prediction
 ### 1.1 Visual Saliency Prediction
 
