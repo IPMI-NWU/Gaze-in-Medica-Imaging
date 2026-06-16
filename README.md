@@ -28,7 +28,7 @@ Right: The distribution of papers across different organs; less frequently studi
 
 * First Trimester Gaze Pattern Estimation Using Stochastic Augmentation Policy Search for Single Frame Saliency Prediction.  
 **Medical Image Understanding and Analysis (2021)** 
-[[Paper](First Trimester Gaze Pattern Estimation Using Stochastic Augmentation)]
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-80432-9_28)]
 
 * First Trimester Video Saliency Prediction Using CLSTMU-Net with Stochastic Augmentation.  
 **2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI) (2022)** 
