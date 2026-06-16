@@ -5,15 +5,15 @@ A systematic review of gaze applications in medical imaging is presented. The fu
 The review provides a comprehensive overview of the emerging interdisciplinary area that integrates eye-tracking and medical imaging. A structured reference framework is established to support future investigations and facilitate continued advances in the field.
 
 ![image](src/image1.png)
-Left: The number of medical imaging publications focusing on gaze has increased rapidly.
+> Left: The number of medical imaging publications focusing on gaze has increased rapidly.
 Middle: The distribution of papers in the survey across imaging modalities; modalities with relatively few studies, such as PET, are grouped under “Others.”
 Right: The distribution of papers across different organs; less frequently studied organs, including the heart, vessels, and pancreas, are grouped under “Others.”
 
 ![image](src/image2.png)
-A taxonomy of gaze-based studies in the field of medical imaging.
+> A taxonomy of gaze-based studies in the field of medical imaging.
 
 ![image](src/image3.png)
-A brief overview of gaze utilization pipelines across various applications.
+> A brief overview of gaze utilization pipelines across various applications.
 
 ## Part 1: Gaze Modeling and Prediction
 ### 1.1 Visual Saliency Prediction
