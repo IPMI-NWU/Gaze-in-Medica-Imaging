@@ -12,7 +12,7 @@ Right: The distribution of papers across different organs; less frequently studi
 ![image](src/image2.png)
 > A taxonomy of gaze-based studies in the field of medical imaging.
 
-![image](src/image3.png)
+![image](src/image4.png)
 > A brief overview of gaze utilization pipelines across various applications.
 
 ## Part 1: Gaze Modeling and Prediction
