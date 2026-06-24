@@ -320,6 +320,10 @@ Right: The distribution of papers across different organs; less frequently studi
 **European Conference on Computer Vision (ECCV) (2025)** 
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72661-3_27)]
 
+* Seeing Like Radiologists: Context- and Gaze-Guided Vision-Language Pretraining for Chest X-rays.  
+**arXiv preprint (2026)** 
+[[Paper](https://arxiv.org/pdf/2603.26049)]
+
 ### 3.2 Report Generation
 
 * Gaze-Assisted Automatic Captioning of Fetal Ultrasound Videos Using Three-Way Multi-Modal Deep Neural Networks.  
